@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7137138d83974d64c91c1277705dac72, type: 3}
+  m_Name: MapObjectLibrary
+  m_EditorClassIdentifier: 
+  manaDrop: {fileID: 2744454970890081513, guid: b29f0b5e680a4404e9322417ba16b8ad, type: 3}
+  tower: {fileID: 8227558961769083515, guid: f5cd94a9fb1cf92429055d3713d1dbe6, type: 3}
